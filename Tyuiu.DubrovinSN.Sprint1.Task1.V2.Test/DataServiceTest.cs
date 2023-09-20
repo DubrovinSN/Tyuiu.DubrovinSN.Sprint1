@@ -8,7 +8,7 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task1.V2.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void Math()
+        public void MathCalculate()
         {
             DataService ds = new DataService();
             double x = 1.0;
