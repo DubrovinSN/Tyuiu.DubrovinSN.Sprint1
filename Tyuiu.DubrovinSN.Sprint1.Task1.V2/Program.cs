@@ -10,7 +10,8 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task1.V2
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+           
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Дубровин С.Н | ИИПб-23-3";
             Console.WriteLine("***************************************************************************");
@@ -39,6 +40,7 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task1.V2
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate(x, y));
             Console.ReadLine();
+            //
         }
     }
 }
