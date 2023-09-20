@@ -10,7 +10,6 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task1.V2.Test
         [TestMethod]
         public void MathCalculate()
         {   
-            //
             DataService ds = new DataService();
             double x = 1.0;
             double y = 12.0;

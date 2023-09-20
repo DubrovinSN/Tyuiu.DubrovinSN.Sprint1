@@ -40,7 +40,6 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task1.V2
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate(x, y));
             Console.ReadLine();
-            //
         }
     }
 }
