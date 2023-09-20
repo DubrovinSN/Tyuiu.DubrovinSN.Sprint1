@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.DubrovinSN.Sprint1.Task0.V7.Lib
-{
+{ 
     public class DataService : ISprint1Task0V7
     {
         public double Calculate()
@@ -15,3 +15,4 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task0.V7.Lib
         }
     }
 }
+
