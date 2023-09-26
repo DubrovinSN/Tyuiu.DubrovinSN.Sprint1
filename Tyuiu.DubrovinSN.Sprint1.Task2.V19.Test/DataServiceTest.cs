@@ -11,9 +11,9 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task2.V19.Test
         public void Math()
         {
             DataService ds = new DataService();
-            int d = 27;
+            int d = 23;
             var res = ds.ConvertInchToKm(d);
-            Assert.AreEqual(0.6858, res);
+            Assert.AreEqual(0.575, res);
         }
     }
 }

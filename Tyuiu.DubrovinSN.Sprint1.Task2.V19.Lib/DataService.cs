@@ -11,7 +11,7 @@ namespace Tyuiu.DubrovinSN.Sprint1.Task2.V19.Lib
     {
         public double ConvertInchToKm(int value)
         {
-            return value * 0.0254;
+            return value * 0.025;
         }
     }
 }
